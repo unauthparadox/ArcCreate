@@ -4,7 +4,7 @@ Prace nad ArcCreate są obecnie wstrzymane do czasu znalezienia nowego programis
 
 Nie wiem jak budować aplikacje w Unity, więc będziesz musiał sam dodać polskie tłumaczenie do aktualnego oficjalnego wydania ArcCreate. Oto jak to zrobić dla edytora:
 1. W tym repozytorium przejdź do [pl.yml](https://github.com/unauthparadox/ArcCreate/blob/master/Assets/StreamingAssets/Locales/pl.yml) i pobierz go.
-2. Pobierz [najnowszą oficjalną wersję ArcCreate](https://github.com/Arcthesia/ArcCreate/releases) i wyodrębnij ją.
+2. Pobierz [najnowszą oficjalną wersję edytora ArcCreate (czyli wersja dla Windows, macOS lub Linux)](https://github.com/Arcthesia/ArcCreate/releases) i wyodrębnij ją.
 3. W wyodrębnionym folderze przejdź do `ArcCreate_Data/StreamingAssets/Locales`.
 4. Wklej plik pl.yml pobrany z tego repozytorium do folderu `Locales` w ArcCreate.
 5. Otwórz ArcCreate i zmień język na polski.
@@ -16,7 +16,7 @@ ArcCreate development is currently stopped until a new developer is found to mai
 
 I don't know how to build applications in Unity, so you'll need to add the Polish translation to the current official ArcCreate release yourself. Here's how you can do it in the editor:
 1. In this repository, go to [pl.yml](https://github.com/unauthparadox/ArcCreate/blob/master/Assets/StreamingAssets/Locales/pl.yml) and download it.
-2. Download [the latest official ArcCreate release](https://github.com/Arcthesia/ArcCreate/releases) and extract it.
+2. Download [the latest official ArcCreate release (this means versions for Windows, macOS or Linux)](https://github.com/Arcthesia/ArcCreate/releases) and extract it.
 3. In the extracted folder, go to `ArcCreate_Data/StreamingAssets/Locales`.
 4. Paste the pl.yml file you've downloaded from this repository to the `Locales` folder in ArcCreate.
 5. Open ArcCreate and change your language to Polish.
