@@ -1,6 +1,6 @@
 # Bardzo ważne, proszę przeczytać. | Important, please read.
 PL:
-Prace nad ArcCreate są obecnie wstrzymane do czasu znalezienia nowego programisty, który zajmie się projektem. **Oznacza to, że obecne polskie tłumaczenie w repozytorium Arcthesia (które można znaleźć [tutaj](https://github.com/Arcthesia/ArcCreate)) jest obecnie wersją niedokończoną, która jest *bardzo zła*.**
+Prace nad ArcCreate są obecnie wstrzymane do czasu znalezienia nowego programisty, który zajmie się projektem. **Oznacza to, że obecne polskie tłumaczenie (które również zostało wykonane przeze mnie) w repozytorium Arcthesia (które można znaleźć [tutaj](https://github.com/Arcthesia/ArcCreate)) jest obecnie wersją niedokończoną, która jest *bardzo, BARDZO zła*.**
 
 Nie wiem jak budować aplikacje w Unity, więc będziesz musiał sam dodać polskie tłumaczenie do aktualnego oficjalnego wydania ArcCreate. Oto jak to zrobić dla edytora:
 1. W tym repozytorium przejdź do [pl.yml](https://github.com/unauthparadox/ArcCreate/blob/master/Assets/StreamingAssets/Locales/pl.yml) i pobierz go.
@@ -12,7 +12,7 @@ Nie wiem jak budować aplikacje w Unity, więc będziesz musiał sam dodać pols
 7. Gotowe.
 
 EN:
-ArcCreate development is currently stopped until a new developer is found to maintain the project. **This means that the current Polish translation in Arcthesia's parent repository (which you can find [here](https://github.com/Arcthesia/ArcCreate)) is currently an unfinished version, which is *very bad*.**
+ArcCreate development is currently stopped until a new developer is found to maintain the project. **This means that the current Polish translation (which was also done by me) in Arcthesia's parent repository (which you can find [here](https://github.com/Arcthesia/ArcCreate)) is currently an unfinished version, which is *very, VERY bad*.**
 
 I don't know how to build applications in Unity, so you'll need to add the Polish translation to the current official ArcCreate release yourself. Here's how you can do it in the editor:
 1. In this repository, go to [pl.yml](https://github.com/unauthparadox/ArcCreate/blob/master/Assets/StreamingAssets/Locales/pl.yml) and download it.
