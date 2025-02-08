@@ -3,7 +3,7 @@ PL:
 Prace nad ArcCreate są obecnie wstrzymane do czasu znalezienia nowego programisty, który zajmie się projektem. **Oznacza to, że obecne polskie tłumaczenie (które również zostało wykonane przeze mnie) w repozytorium Arcthesia (które można znaleźć [tutaj](https://github.com/Arcthesia/ArcCreate)) jest obecnie starszą, niedokończoną wersją, która jest *bardzo, BARDZO zła*.**
 
 Nie wiem jak budować aplikacje w Unity, więc będziesz musiał sam dodać polskie tłumaczenie do aktualnego oficjalnego wydania ArcCreate. Oto jak to zrobić dla edytora:
-1. W tym repozytorium przejdź do [pl.yml](https://github.com/unauthparadox/ArcCreate/blob/master/Assets/StreamingAssets/Locales/pl.yml) i pobierz go.
+1. Pobierz [najnowsze wydanie tłumaczenia](https://github.com/unauthparadox/ArcCreate/releases)
 2. Pobierz [najnowszą oficjalną wersję edytora ArcCreate (czyli wersja dla Windows, macOS lub Linux)](https://github.com/Arcthesia/ArcCreate/releases) i wyodrębnij ją.
 3. W wyodrębnionym folderze przejdź do `ArcCreate_Data/StreamingAssets/Locales`.
 4. Wklej plik pl.yml pobrany z tego repozytorium do folderu `Locales` w ArcCreate.
@@ -17,7 +17,7 @@ EN:
 ArcCreate development is currently stopped until a new developer is found to maintain the project. **This means that the current Polish translation (which was also done by me) in Arcthesia's parent repository (which you can find [here](https://github.com/Arcthesia/ArcCreate)) is currently an older, unfinished version, which is *very, VERY bad*.**
 
 I don't know how to build applications in Unity, so you'll need to add the Polish translation to the current official ArcCreate release yourself. Here's how you can do it in the editor:
-1. In this repository, go to [pl.yml](https://github.com/unauthparadox/ArcCreate/blob/master/Assets/StreamingAssets/Locales/pl.yml) and download it.
+1. Download the [latest release of the translation](https://github.com/unauthparadox/ArcCreate/releases)
 2. Download [the latest official ArcCreate release (this means versions for Windows, macOS or Linux)](https://github.com/Arcthesia/ArcCreate/releases) and extract it.
 3. In the extracted folder, go to `ArcCreate_Data/StreamingAssets/Locales`.
 4. Paste the pl.yml file you've downloaded from this repository to the `Locales` folder in ArcCreate.
