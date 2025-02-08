@@ -1,6 +1,6 @@
 # Bardzo ważne, proszę przeczytać. | Important, please read.
 PL:
-Prace nad ArcCreate są obecnie wstrzymane do czasu znalezienia nowego programisty, który zajmie się projektem. **Oznacza to, że obecne polskie tłumaczenie (które również zostało wykonane przeze mnie) w repozytorium Arcthesia (które można znaleźć [tutaj](https://github.com/Arcthesia/ArcCreate)) jest obecnie starszą, niedokończoną wersją, która jest *bardzo, BARDZO zła*.**
+Prace nad ArcCreate są obecnie wstrzymane do czasu znalezienia nowego programisty, który zajmie się projektem. **Oznacza to, że obecne polskie tłumaczenie (które również zostało wykonane przeze mnie) w repozytorium Arcthesia (które można znaleźć [tutaj](https://github.com/Arcthesia/ArcCreate)) jest obecnie starszą, niedokończoną wersją, która jest *bardzo, BARDZO źle przetłumaczona*.**
 
 Nie wiem jak budować aplikacje w Unity, więc będziesz musiał sam dodać polskie tłumaczenie do aktualnego oficjalnego wydania ArcCreate. Oto jak to zrobić dla edytora:
 1. Pobierz [najnowsze wydanie tłumaczenia](https://github.com/unauthparadox/ArcCreate/releases)
