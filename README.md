@@ -23,7 +23,7 @@ I don't know how to build applications in Unity, so you'll need to add the Polis
 6. Restart ArcCreate.
 7. Done.
 
-## Poniżej znajduje się oryginalna zawartość pliku z repozytorium Arcthesia. | The following is the original contents of the file from the Arcthesia repository.
+## Poniżej znajduje się oryginalna zawartość README z repozytorium Arcthesia. | The following is the original contents of the README from the Arcthesia repository.
 
 # ArcCreate
 
