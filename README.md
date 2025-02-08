@@ -11,7 +11,7 @@ Nie wiem jak budować aplikacje w Unity, więc będziesz musiał sam dodać pols
 6. Uruchom ponownie ArcCreate.
 7. Gotowe.
 
-Nie można użyć tej metody do korzystania z nowszej wersji tłumaczenia odtwarzacza. Będziesz musiał zbudować aplikację za pomocą UnityEditor. Uwaga: część tekstu w ustawieniach odtwarzacza nakłada się na siebie ze względu na rozmiar czcionki.
+Nie można użyć tej metody do korzystania z nowszej wersji tłumaczenia odtwarzacza. Będziesz musiał zbudować aplikację za pomocą UnityEditor. Część tekstu w ustawieniach odtwarzacza nakłada się na siebie ze względu na rozmiar czcionki.
 
 ---
 
