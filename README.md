@@ -11,7 +11,7 @@ Nie wiem jak budować aplikacje w Unity, więc będziesz musiał sam dodać pols
 6. Uruchom ponownie ArcCreate.
 7. Gotowe.
 
-Ze względu na to, że nie jestem w stanie przetestować odtwarzacza, tłumaczenie dla niego pozostało w większości niezmienione w nowszych wersjach tłumaczenia, jednak należy pamiętać, że niektóre teksty w ustawieniach nakładają się na siebie z powodu problemów z rozmiarem czcionki.
+Nie można użyć tej metody do korzystania z nowszej wersji tłumaczenia odtwarzacza. Będziesz musiał zbudować aplikację za pomocą UnityEditor. Uwaga: część tekstu w ustawieniach odtwarzacza nakłada się na siebie ze względu na rozmiar czcionki.
 
 EN:
 ArcCreate development is currently stopped until a new developer is found to maintain the project. **This means that the current Polish translation (which was also done by me) in Arcthesia's parent repository (which you can find [here](https://github.com/Arcthesia/ArcCreate)) is currently an older, unfinished version, which is *very, VERY bad*.**
@@ -25,7 +25,7 @@ I don't know how to build applications in Unity, so you'll need to add the Polis
 6. Restart ArcCreate.
 7. Done.
 
-Due to me not being able to test the player, the translation for it has mostly remained unchanged in the newer versions of the translation, however please note that some of the text in the settings overlap due to font size issues.
+You can't use this method to use a newer version of the player translation, you'll need to build the app using Unity. Please note that some of the text in the settings overlap due to font size issues.
 
 ## Poniżej znajduje się oryginalna zawartość README z repozytorium Arcthesia. | The following is the original contents of the README from the Arcthesia repository.
 
