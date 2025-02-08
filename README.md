@@ -13,6 +13,8 @@ Nie wiem jak budować aplikacje w Unity, więc będziesz musiał sam dodać pols
 
 Nie można użyć tej metody do korzystania z nowszej wersji tłumaczenia odtwarzacza. Będziesz musiał zbudować aplikację za pomocą UnityEditor. Uwaga: część tekstu w ustawieniach odtwarzacza nakłada się na siebie ze względu na rozmiar czcionki.
 
+---
+
 EN:
 ArcCreate development is currently stopped until a new developer is found to maintain the project. **This means that the current Polish translation (which was also done by me) in Arcthesia's parent repository (which you can find [here](https://github.com/Arcthesia/ArcCreate)) is currently an older, unfinished version, which is *very, VERY bad*.**
 
